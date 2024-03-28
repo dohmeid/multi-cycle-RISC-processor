@@ -1,0 +1,337 @@
+timestamp=1706563284052
+
+[~A]
+./../compile/DataPath1.v=0*25677*27566
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32.v=0*421655*422378
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32.v_ALU32_tb.v_ALU32_control.v=0*350736*352287
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32_control.v=0*430628*431471
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32_control.v_CPU.v_CPU_tb.v=0*87132*89463
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32_tb.v_DataMemory.v=0*11316*12391
+C:/My_Designs/FinalArchProject/FinalArchticture/src/ALU32_tb.v_DataMemory.v_EX_MA_Buffer.v=0*75697*77012
+C:/My_Designs/FinalArchProject/FinalArchticture/src/CPU.v=0*443831*445689
+C:/My_Designs/FinalArchProject/FinalArchticture/src/CPU_tb.v=0*418219*418703
+C:/My_Designs/FinalArchProject/FinalArchticture/src/EX_MA_Buffer.v=0*376326*376912
+C:/My_Designs/FinalArchProject/FinalArchticture/src/EX_MA_Buffer.v_CPU.v_CPU_tb.v=0*354375*356497
+C:/My_Designs/FinalArchProject/FinalArchticture/src/EX_MA_Buffer.v_Extender.v_Incrementer.v=0*14258*15141
+C:/My_Designs/FinalArchProject/FinalArchticture/src/Extender.v_Incrementer.v_MA_WB_Buffer.v_MainControlUnit.v=0*79635*81481
+C:/My_Designs/FinalArchProject/FinalArchticture/src/IF_test.v=0*67233*68343
+C:/My_Designs/FinalArchProject/FinalArchticture/src/Incrementer.v=0*420026*420483
+C:/My_Designs/FinalArchProject/FinalArchticture/src/InstructionMemory.v=0*376*951
+C:/My_Designs/FinalArchProject/FinalArchticture/src/InstructionMemory.v_PC Control.v_processInstruction.v=0*335917*337071
+C:/My_Designs/FinalArchProject/FinalArchticture/src/MA_WB_Buffer.v_DataMemory.v_MainControlUnit.v_StackPointer.v_Adder.v=0*346371*348468
+C:/My_Designs/FinalArchProject/FinalArchticture/src/MA_WB_Buffer.v_MainControlUnit.v_Mux.v=0*17529*19276
+C:/My_Designs/FinalArchProject/FinalArchticture/src/MainControlUnit.v=0*38871*40309
+C:/My_Designs/FinalArchProject/FinalArchticture/src/Mux.v_StackPointer.v_Adder.v_ALU32.v=0*83614*84670
+C:/My_Designs/FinalArchProject/FinalArchticture/src/Operations.v_Extender.v_Incrementer.v_Mux.v=0*342472*343551
+C:/My_Designs/FinalArchProject/FinalArchticture/src/PC Control.v=0*436592*437176
+C:/My_Designs/FinalArchProject/FinalArchticture/src/PC Control.v_processInstruction.v=0*69777*70702
+C:/My_Designs/FinalArchProject/FinalArchticture/src/StackPointer.v_Adder.v_ALU32.v=0*20946*21804
+C:/My_Designs/FinalArchProject/FinalArchticture/src/calculateBTA.v=0*401343*401817
+C:/My_Designs/FinalArchProject/FinalArchticture/src/calculatePCNext.v=0*441757*442362
+C:/My_Designs/FinalArchProject/FinalArchticture/src/calculatePCNext.v_CPU.v=0*433217*435317
+C:/My_Designs/FinalArchProject/FinalArchticture/src/destinationRegister.v_extOp.v_IF.v_IF_test.v=0*2890*4579
+C:/My_Designs/FinalArchProject/FinalArchticture/src/extOp.v=0*397595*398142
+C:/My_Designs/FinalArchProject/FinalArchticture/src/extOp.v_IF.v_IF_test.v=0*332549*334136
+C:/My_Designs/FinalArchProject/FinalArchticture/src/processInstruction.v=0*399414*400102
+C:/My_Designs/FinalArchProject/FinalArchticture/src/registerFile.v=0*409699*410397
+C:/My_Designs/FinalArchProject/FinalArchticture/src/registerFile.v_buffer.v_calculateBTA.v_calculatePCNext.v=0*339176*340317
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/ALU32.v=0*326566*327336
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/ALU32_control.v_CPU.v_CPU_tb.v=0*212440*214818
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/CPU.v=0*328826*330635
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/CPU_tb.v=0*285756*286207
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/EX_MA_Buffer.v_Extender.v_ALU32_tb.v_Incrementer.v_DataMemory.v=0*201425*203020
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/MA_WB_Buffer.v_MainControlUnit.v_Mux.v=0*205536*207394
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/MainControlUnit.v=0*218196*219665
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/Operations.v=0*215866*216433
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/PC Control.v_processInstruction.v=0*194745*195717
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/StackPointer.v_Adder.v_ALU32.v=0*209079*209968
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/extOp.v_IF.v_IF_test.v=0*191639*193257
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/processInstruction.v=0*230930*231665
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/registerFile.v=0*242974*243687
+C:/Users/Mutaz Hmaid/Desktop/FinalArchProject/FinalArchticture/src/registerFile.v_buffer.v_calculateBTA.v_calculatePCNext.v=0*197737*198909
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/ALU32.v=0*891999*892728
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/ALU32_control.v=0*484071*484920
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/ALU32_tb.v=0*479698*480414
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/Adder.v=0*478028*478485
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/CPU.v=0*920943*923415
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/CPU_tb.v=0*615290*615780
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/DataMemory.v=0*929263*930013
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/EX_MA_Buffer.v=0*486241*486849
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/Extender.v=0*869936*870492
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/IF.v=0*448878*449524
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/IF_test.v=0*100573*101689
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/Incrementer.v=0*465470*465933
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/MA_WB_Buffer.v=0*469242*469754
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/MainControlUnit.v=0*831670*833130
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/Mux.v=0*467383*467998
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/Operations.v=0*461728*462270
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/PC Control.v=0*910154*910760
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/StackPointer.v=0*476289*476801
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/buffer.v=0*456612*457102
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/calculateBTA.v=0*458321*458801
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/calculatePCNext.v=0*900039*900650
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/extOp.v=0*875911*876432
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/processInstruction.v=0*452643*453337
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/processInstruction.v_CPU.v=0*697174*699971
+C:/Users/ps/Desktop/FinalArchProject/FinalArchticture/src/registerFile.v=0*454633*455353
+CUSP_Counter=18
+LastVerilogToplevel=CPU_tb
+ModifyID=336
+Version=74
+
+[~MFT]
+0=6|0FinalArchticture.mgf|930013|532221
+1=4|1FinalArchticture.mgf|2213415|2155729
+3=8|3FinalArchticture.mgf|894233|845948
+
+[$root]
+A/$root=22|||1*2213009
+BinW64/$root=3*893063
+SLP=3*893178
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216e123d3ccdd5f52365bd5d7ef3ff2a122
+
+[ALU32]
+A/ALU32=22|../src/ALU32.v|21|1*2151502
+BinW64/ALU32=3*857180
+R=../src/ALU32.v|21
+SLP=3*858727
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0630f8708318de0bfba84f1b70faf7aefdb5afc4fa5f600b9239adc91f9694ad
+
+[ALU32_control]
+A/ALU32_control=22|../src/ALU32_control.v|29|1*1014731
+BinW64/ALU32_control=3*428590
+CUSP=UnitScopePackage_16
+R=../src/ALU32_control.v|29
+SLP=3*430646
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|748297e564a97e2b7d0902ab36850ad8be0ba97c5a30ea52064816ba36df6133a494d585829f4056d7e5607ee8ba717a
+
+[ALU32_tb]
+A/ALU32_tb=22|../src/ALU32_tb.v|1|1*1010388
+BinW64/ALU32_tb=3*423897
+R=../src/ALU32_tb.v|1
+SLP=3*425340
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0c95493743a0c0250497bc33d5a0fc2d2ee189b2933808b822fa005fb65d11df38f2a2967acc67554c888a38da824423
+
+[Adder]
+A/Adder=22|../src/Adder.v|9|1*1008974
+BinW64/Adder=3*423062
+R=../src/Adder.v|9
+SLP=3*423521
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|7918c8fe9f8d9b8c180503b46e5a4b29981bd8eb0d284b980c9e245dceff55b8
+
+[BTA]
+A/BTA=22|../src/calculateBTA.v|3|1*986647
+BinW64/BTA=3*405084
+R=../src/calculateBTA.v|3
+SLP=3*405652
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|1927e15d1c03a504f474b0f9cd22cb579b6b1ea9cfb1f86e9b8a6e85deddd8c4
+
+[CPU]
+A/CPU=22|../src/CPU.v|1|1*2195694
+BinW64/CPU=3*885397
+R=../src/CPU.v|1
+SLP=3*888194
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8e7b05e79f53f2dfbaf3f223a151a5e1e8ee51c11100df754faf4da81c86118b
+
+[CPU_tb]
+A/CPU_tb=22|../src/CPU_tb.v|1|1*1372773
+BinW64/CPU_tb=3*564420
+R=../src/CPU_tb.v|1
+SLP=3*565382
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|efd6246e11c114d9d88432419f14dd89cf404bfe8b53e650055f965f6aff62fe
+
+[DataMemory]
+A/DataMemory=22|../src/DataMemory.v|19|1*2213415
+BinW64/DataMemory=3*893246
+R=../src/DataMemory.v|19
+SLP=3*894233
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ab5b04ae54b0797c38b8547f936232d99426d89c50ff4379bf89bab4c639842df7c5fb946c507906be9197c59eeef269
+
+[DataPath1]
+BinW64/DataPath1=3*41666
+R=../src/DataPath1.bde|0
+SLP=3*43211
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|7828a0f0143e1669b4a6a7bdc73b75f31092d539e99e7b6753efd99c3dfd473a7f647ed1ff7df7ef433586700afa064d
+
+[EX_MA_Buffer]
+A/EX_MA_Buffer=22|../src/EX_MA_Buffer.v|1|1*1019909
+BinW64/EX_MA_Buffer=3*431900
+R=../src/EX_MA_Buffer.v|1
+SLP=3*432527
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|46ae2c851720274259db053cdbc53edc0fc8c5eb6f8c579bc2541b54a0b53953d7c1e6847bfec78622c4e2c03e545151
+
+[Ext]
+A/Ext=22|../src/extOp.v|3|1*2111548
+BinW64/Ext=3*841149
+R=../src/extOp.v|3
+SLP=3*841735
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|6e93223ff59da949da3de0efe99c80d1ce5e59c0278284655d330cfc1baed508
+
+[Extender]
+A/Extender=22|../src/Extender.v|10|1*2097789
+BinW64/Extender=3*835813
+R=../src/Extender.v|10
+SLP=3*836399
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a261af10a9c686e7aecc5c2773f178128e9d9588c4ff5cca4594dc3e49d761f7cf2ebc43ac24f0245569d7d8e5f56bd8
+
+[GenericBuffer]
+A/GenericBuffer=22|../src/buffer.v|1|1*984936
+BinW64/GenericBuffer=3*403981
+R=../src/buffer.v|1
+SLP=3*404691
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|1ecddb794fdd3c676315fc88e55b5a11b94c4fb333e3ee803fe10c609c13665970a6757b7bacabcce6530cd929a2a41c
+
+[IF]
+A/IF=22|../src/IF.v|7|1*976711
+BinW64/IF=3*396573
+R=../src/IF.v|7
+SLP=3*397006
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fef692d5df769aaa310028baa510d055ebfe9f35e3837d79ff7a99420162fcce
+
+[INST_MEM]
+A/INST_MEM=22|../src/InstructionMemory.v|6|1*975136
+BinW64/INST_MEM=3*395084
+R=../src/InstructionMemory.v|6
+SLP=3*396190
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ab30e8c465fc98ce7ffcaf2d09c502632ee189b2933808b822fa005fb65d11df812c1bbce4c6133a059bb816a748c540
+
+[Incrementer]
+A/Incrementer=22|../src/Incrementer.v|6|1*991743
+BinW64/Incrementer=3*409312
+R=../src/Incrementer.v|6
+SLP=3*409779
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f9caef2ee261b4cb71eec9012d32c4c3316d11a420a748bc0b095bc06e99fa34601107879f823b11619595ebd5fcdf1c
+
+[MA_WB_Buffer]
+A/MA_WB_Buffer=22|../src/MA_WB_Buffer.v|1|1*996841
+BinW64/MA_WB_Buffer=3*412713
+R=../src/MA_WB_Buffer.v|1
+SLP=3*413161
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f95427a95aedccda015efd4cb7443e859be622e3d0ab48208cd140685c2018db1b4148d12a9ed95558dbb123f9cb7c53
+
+[MainControlUnit]
+A/MainControlUnit=22|../src/MainControlUnit.v|8|1*2017482
+BinW64/MainControlUnit=3*797063
+CUSP=UnitScopePackage_18
+R=../src/MainControlUnit.v|8
+SLP=3*800688
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0c433dab20d7503dcc494f7325eac2f6c09fc8c7985230e38fd3526b4d1529a1802e16743647dd5172747aa2bf33be22
+
+[PCControl]
+A/PCControl=22|../src/PC Control.v|2|1*2176541
+BinW64/PCControl=3*875882
+R=../src/PC Control.v|2
+SLP=3*876919
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|922c9ee36eaac476ce2ec3c1495eb93974b932a99aa81657982051486f806f26c8c0e8d6a291263a091d47a3bc0765a6
+
+[PI]
+A/PI=22|../src/processInstruction.v|3|1*1621871
+BinW64/PI=3*651244
+R=../src/processInstruction.v|3
+SLP=3*652538
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f75b222da363e6e529434bd821487d5ede5a20d2bd51d7c073b542cfa45583ae
+
+[StackPointer]
+A/StackPointer=22|../src/StackPointer.v|7|1*1007449
+BinW64/StackPointer=3*422089
+R=../src/StackPointer.v|7
+SLP=3*422620
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|6eeb6ecef74fdfce0cf6b3af95a799ba9851fc1d53605e93acb1fa11f571aa34c0aa1608c262627bc1781ab3de4d00fe
+
+[UnitScopePackage_16]
+A/UnitScopePackage_16=22|../src/Operations.v|0|1*1016439
+BinW64/UnitScopePackage_16=3*431311
+CUSP=1
+R=../src/Operations.v|0
+SLP=3*431563
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53ee4eff0eb3021f8b725963ba4f5f62a71230ebd1246787fe55d215dc8cc1967a5
+
+[UnitScopePackage_18]
+A/UnitScopePackage_18=22|../src/Operations.v|0|1*2020075
+BinW64/UnitScopePackage_18=3*803606
+CUSP=1
+R=../src/Operations.v|0
+SLP=3*803858
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e377b16431bf53d4ea292d93ba1687aa2e96fa099aa7ac0dfbe0b0f3a384580f2
+
+[calculatePCNext]
+A/calculatePCNext=22|../src/calculatePCNext.v|2|1*2158657
+BinW64/calculatePCNext=3*865533
+R=../src/calculatePCNext.v|2
+SLP=3*866828
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e425088d8f0275507b2dc973c2574f84abf85b94a0b99563cf914c006df562571ac430d4aa6432d6a871f8fd9159d861
+
+[decrementer]
+A/decrementer=22|../src/Incrementer.v|18|1*992691
+BinW64/decrementer=3*409981
+R=../src/Incrementer.v|18
+SLP=3*410448
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b63544fc0537f15997a1c6d8482db9505b2613bc7b9558ee5bd6dbfe9bb1e4b8601107879f823b11619595ebd5fcdf1c
+
+[destinationRegister]
+A/destinationRegister=22|../src/destinationRegister.v|3|1*2336
+BinW64/destinationRegister=3*1855
+R=../src/destinationRegister.v|3
+SLP=3*2566
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|891f4e9c6521dbde0a9491ed9eb94676e84f87d7112a7dc935006cff13fc33803bf74b67fae4d2ba160f9e3c5e79893a
+
+[mux2x1]
+A/mux2x1=22|../src/Mux.v|9|1*994067
+BinW64/mux2x1=3*410833
+R=../src/Mux.v|9
+SLP=3*411311
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|269c48f88c4a6630b0dac62e83881d97f79f974f001d9030f2cb39bdfe3e9506
+
+[mux4x1]
+A/mux4x1=22|../src/Mux.v|25|1*995123
+BinW64/mux4x1=3*411554
+R=../src/Mux.v|25
+SLP=3*412185
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e6b717cacdef1e1cfddf87fa026ec1017d138ea1db58770f66fac837463565f9
+
+[registerFile]
+A/registerFile=22|../src/registerFile.v|4|1*981899
+BinW64/registerFile=3*401088
+R=../src/registerFile.v|4
+SLP=3*403039
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e5ad9fa76aa1626dc6021e30dae756772626a7f3e68474537778618e50ae61f0ebecd881e076f8dc9da6fc6d43ff83b6
+
+[test]
+A/test=22|../src/IF_test.v|2|1*706151
+BinW64/test=3*297942
+R=../src/IF_test.v|2
+SLP=3*300151
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e1f76c805e2c0a9a3d36a8be8882f2061e88f2d3528e5fcc0051c586aba7b742
+
+[~U]
+$root=12|0*928389|
+ALU32=12|0*891763|
+ALU32_control=12|0*483398|
+ALU32_tb=12|0*479485||0x10
+Adder=12|0*477824|
+BTA=12|0*458119|
+CPU=12|0*920432|
+CPU_tb=12|0*615083||0x10
+DataMemory=12|0*928955|
+DataPath1=12|0*25257||0x10
+EX_MA_Buffer=12|0*485944|
+Ext=12|0*875700|
+Extender=12|0*869724|
+GenericBuffer=12|0*456376|
+IF=12|0*448671||0x10
+INST_MEM=12|0*448461|
+Incrementer=12|0*465062|
+MA_WB_Buffer=12|0*468996|
+MainControlUnit=12|0*830920|
+PCControl=12|0*909921|
+PI=12|0*696401|
+StackPointer=12|0*476068|
+UnitScopePackage_16=12|0*483640||0x40200000
+UnitScopePackage_18=12|0*831238||0x40200000
+calculatePCNext=12|0*899772|
+decrementer=12|0*465266|
+destinationRegister=12|0*1765|
+mux2x1=12|0*466955|
+mux4x1=12|0*467162|
+registerFile=12|0*454366|
+test=12|0*332313||0x10

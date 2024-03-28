@@ -1,0 +1,22 @@
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/registerFile.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/Mux.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/MA_WB_Buffer.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/DataMemory.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/StackPointer.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/Incrementer.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/EX_MA_Buffer.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/ALU32.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/ALU32_control.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/MainControlUnit.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/buffer.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/calculateBTA.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/extOp.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/processInstruction.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/InstructionMemory.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/IF.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/calculatePCNext.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/PC Control.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/CPU.v=S
+C:\Users\Mutaz Hmaid\Downloads\FinalArchProject (2)\FinalArchProjectfinal\FinalArchticture/src/CPU_tb.v=S

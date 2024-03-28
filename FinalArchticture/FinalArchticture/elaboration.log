@@ -1,0 +1,46 @@
+Active-HDL 13.0.376.8320 2024-01-29 23:31:23
+
+Elaboration top modules:
+Verilog Module                CPU_tb
+SystemVerilog Package         UnitScopePackage_18
+SystemVerilog Package         UnitScopePackage_16
+
+
+----------------------------------------------------------------------------------------------------
+Verilog Module          | Library          | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------
+CPU_tb                  | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+CPU                     | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+PCControl               | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+calculatePCNext         | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+GenericBuffer           | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+INST_MEM                | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+PI                      | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+Ext                     | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+registerFile            | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+BTA                     | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+MainControlUnit         | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux4x1                  | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+ALU32_control           | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+ALU32                   | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+Incrementer             | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+EX_MA_Buffer            | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+decrementer             | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+StackPointer            | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux2x1                  | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+DataMemory              | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+MA_WB_Buffer            | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+SystemVerilog Package   | Library          | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------
+UnitScopePackage_18     | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+UnitScopePackage_16     | finalarchticture |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+Library                 | Comment
+----------------------------------------------------------------------------------------------------
+finalarchticture        | None
+----------------------------------------------------------------------------------------------------

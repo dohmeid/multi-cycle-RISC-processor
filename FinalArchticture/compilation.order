@@ -1,0 +1,25 @@
+.\src\extOp.v
+.\src\IF.v
+.\src\IF_test.v
+.\src\InstructionMemory.v
+.\src\PC Control.v
+.\src\processInstruction.v
+.\src\registerFile.v
+.\src\buffer.v
+.\src\calculateBTA.v
+.\src\calculatePCNext.v
+.\src\Operations.v
+.\src\Extender.v
+.\src\Incrementer.v
+.\src\Mux.v
+.\src\MA_WB_Buffer.v
+.\src\DataMemory.v
+.\src\MainControlUnit.v
+.\src\StackPointer.v
+.\src\Adder.v
+.\src\ALU32.v
+.\src\ALU32_tb.v
+.\src\ALU32_control.v
+.\src\EX_MA_Buffer.v
+.\src\CPU.v
+.\src\CPU_tb.v
